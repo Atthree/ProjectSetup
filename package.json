@@ -1,0 +1,14 @@
+{
+  "name": "com.atthree.project-setup",
+  "version": "0.1.0",
+  "displayName": "Project Setup",
+  "description": "One window to start a new Unity 6 project: folder structure, Atthree and Unity packages, project settings, git files and starter scenes.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Atthree",
+    "url": "https://github.com/Atthree"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {}
+}

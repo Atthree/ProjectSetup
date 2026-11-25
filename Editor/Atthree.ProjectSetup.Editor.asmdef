@@ -1,0 +1,18 @@
+{
+    "name": "Atthree.ProjectSetup.Editor",
+    "rootNamespace": "Atthree.ProjectSetup.Editor",
+    "references": [
+        "Atthree.ProjectSetup"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
