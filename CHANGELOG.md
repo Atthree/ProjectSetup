@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.1.1] - 2026-11-25
+- Package catalog: added Scene Loader (ticked by default).
+
 ## [0.1.0] - 2026-11-25
 - Initial version: Project Setup window (Window > Atthree > Project Setup) with Project, Folders,
   Packages, Settings and Git & Scenes tabs, and **Run Setup** for all steps.
