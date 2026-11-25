@@ -9,6 +9,26 @@
     "url": "https://github.com/Atthree"
   },
   "license": "MIT",
-  "keywords": [],
+  "keywords": [
+    "unity",
+    "unity3d",
+    "unity6",
+    "upm",
+    "upm-package",
+    "unity-package",
+    "gamedev",
+    "csharp",
+    "editor-tools",
+    "project-setup",
+    "project-template",
+    "folder-structure",
+    "gitignore",
+    "gitattributes",
+    "git-lfs",
+    "boilerplate",
+    "starter-kit",
+    "workflow",
+    "productivity"
+  ],
   "dependencies": {}
 }

@@ -2,11 +2,13 @@
     "name": "Atthree.ProjectSetup.Tests",
     "rootNamespace": "Atthree.ProjectSetup.Tests",
     "references": [
-        "Atthree.ProjectSetup",
+        "Atthree.ProjectSetup.Editor",
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": true,

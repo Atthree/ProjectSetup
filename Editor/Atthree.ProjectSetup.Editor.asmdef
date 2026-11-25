@@ -1,9 +1,7 @@
 {
     "name": "Atthree.ProjectSetup.Editor",
-    "rootNamespace": "Atthree.ProjectSetup.Editor",
-    "references": [
-        "Atthree.ProjectSetup"
-    ],
+    "rootNamespace": "Atthree.ProjectSetup",
+    "references": [],
     "includePlatforms": [
         "Editor"
     ],
