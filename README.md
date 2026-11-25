@@ -30,7 +30,7 @@ settings, `.gitignore` / `.gitattributes` and starter scenes. Tick what you want
 https://github.com/Atthree/ProjectSetup.git
 ```
 
-To lock a version: `https://github.com/Atthree/ProjectSetup.git#v0.1.1`
+To lock a version: `https://github.com/Atthree/ProjectSetup.git#v0.1.2`
 
 ### 2. Open the window
 
@@ -161,7 +161,7 @@ then **Window > General > Test Runner > EditMode > Run All**.
 https://github.com/Atthree/ProjectSetup.git
 ```
 
-Sürüm sabitlemek için: `https://github.com/Atthree/ProjectSetup.git#v0.1.1`
+Sürüm sabitlemek için: `https://github.com/Atthree/ProjectSetup.git#v0.1.2`
 
 ### 2. Pencereyi aç
 

@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.1.2] - 2026-11-25
+- Package catalog: added Menu System (ticked by default).
+
 ## [0.1.1] - 2026-11-25
 - Package catalog: added Scene Loader (ticked by default).
 

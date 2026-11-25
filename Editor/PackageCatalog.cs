@@ -67,6 +67,7 @@ namespace Atthree.ProjectSetup
         {
             Atthree("Environment", "com.atthree.environment", "Environment", "v0.1.0", "Sun, sky, fog, post-processing presets and a day/night cycle.", true),
             Atthree("SceneLoader", "com.atthree.scene-loader", "Scene Loader", "v0.1.0", "Fade transitions, loading screen, scene references, Scenes window.", true),
+            Atthree("MenuSystem", "com.atthree.menu-system", "Menu System", "v0.1.0", "Main/pause/settings menus, screen stack, confirm dialogs.", true),
             Atthree("EventBus", "com.atthree.event-bus", "Event Bus", "v0.1.0", "Typed events and ScriptableObject event channels.", true),
             Atthree("GameFeel", "com.atthree.game-feel", "Game Feel", "v0.1.0", "Tweens, camera shake, hit stop, hit flash, floating text."),
             Atthree("AudioManager", "com.atthree.audio-manager", "Audio Manager", "v0.1.0", "Sound effects, music with crossfades, volume settings."),
